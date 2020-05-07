@@ -1,0 +1,14 @@
+url: "http://localhost:4000/"
+baseurl: /timeline-jekyll-theme
+
+# Site Settings
+title: "Syed Jawad Akhtar"
+description: "This is my Curriclum Vitae"
+keywords: "jekyll, theme"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
