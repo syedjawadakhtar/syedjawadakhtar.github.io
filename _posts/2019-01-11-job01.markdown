@@ -1,0 +1,7 @@
+---
+layout: null
+title: November 2019
+subtitle:
+image: "img/timeline/wireshark1.png"
+---
+Seminar: <a href = "https://www.wireshark.org/" target = "_blank">WIreshark</a> and its capabilities for class CO 431 - Internet Tools.
