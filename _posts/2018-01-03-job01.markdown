@@ -4,5 +4,5 @@ title: June 2018 - July 2018
 subtitle:
 image: "img/timeline/SWC.jpeg"
 ---
-Student Intern at [Saudi White Cement](https://sawcem.com.sa/?lang=en).
-Learnt Network Security and ERP tools of [Oracle](https://www.oracle.com/applications/ebusiness/) & [SAP](https://www.sap.com/products/enterprise-management-erp.html).
+Student Intern at <a href = "https://sawcem.com.sa/?lang=en" target = "_blank">Saudi White Cement</a>.
+Learnt Network Security and ERP tools of <a href = "https://www.oracle.com/applications/ebusiness/" target = "_blank">Oracle</a> & <a href = "https://www.sap.com/products/enterprise-management-erp.html" target = "_blank">SAP</a>.

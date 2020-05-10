@@ -4,4 +4,4 @@ title: August 2016
 subtitle:
 image: "img/timeline/AMU.jpeg"
 ---
-Started Bachelors in Computer Engineering from [AMU](https://www.amu.ac.in/)
+Started Bachelors in Computer Engineering from <a href = "https://amu.ac.in/departmentpage.jsp?did=30" target = "_blank">AMU</a>

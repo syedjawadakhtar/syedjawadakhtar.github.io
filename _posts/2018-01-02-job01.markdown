@@ -4,5 +4,5 @@ title: March 2018
 subtitle:
 image: "img/timeline/LogoSauvc.png"
 ---
-Represented college team in [Singapore AUV Challenge - 2018](https://sauvc.org/) at Singapore Polytechnic.
+Represented college team in <a href = "https://sauvc.org/" target = "_blank">Singapore AUV Challenge - 2018</a> at Singapore Polytechnic.
 Won "Best AUV" Challenge.

@@ -4,4 +4,4 @@ title: August 2017
 subtitle:
 image: "img/timeline/AUV.png"
 ---
-Co-Founded [AUV ZHCET Club](https://www.auvzhcet.in/) at college.
+Co-Founded <a href = "http://www.auvzhcet.in/" target = "_blank">AUV ZHCET Club</a> at college.

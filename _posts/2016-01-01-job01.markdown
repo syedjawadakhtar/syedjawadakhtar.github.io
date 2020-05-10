@@ -4,4 +4,4 @@ title: April 2012 - March 2016
 subtitle:
 image: "/img/timeline/IISJ.jpg"
 ---
-Completed my schooling from [Int'l Indian School Jeddah](https://www.iisjed.org)
+Completed my schooling from <a href = "https://www.iisjed.org" target = "_blank">Int'l Indian School Jeddah</a>

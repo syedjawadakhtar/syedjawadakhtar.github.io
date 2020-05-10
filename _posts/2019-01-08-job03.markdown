@@ -4,5 +4,5 @@ title: August 2019
 subtitle:
 image: "img/timeline/ProjectFinal.jpeg"
 ---
-[Project](https://github.com/syedjawadakhtar/AUV-FinalYear-Unity): Underwater simulations of Autonomous Underwater Vehicle AUVs 
+Project: Underwater simulations of Autonomous Underwater Vehicle AUVs . <a href = "https://github.com/syedjawadakhtar/AUV-FinalYear-Unity" target = "_blank">[Link]</a>
 
