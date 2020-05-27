@@ -3,7 +3,7 @@ baseurl: /syedjawadakhtar.github.io
 
 # Site Settings
 title: "Syed Jawad Akhtar"
-description: "This is my Curriclum Vitae"
+description: "This is my Curriculum Vitae"
 keywords: "jekyll, theme"
 google-tracking-id:
 
@@ -12,3 +12,6 @@ google-tracking-id:
 career-img: "img/timeline/default.jpg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+
+# Google Analytics
+google_analytics: UA-167744371-1
