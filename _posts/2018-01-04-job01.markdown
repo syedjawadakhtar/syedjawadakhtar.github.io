@@ -4,4 +4,4 @@ title: August 2018 - December 2018
 subtitle:
 image: "img/timeline/MINOR.jpeg"
 ---
-Minor Project: Camera tuning AI using Deep Reinforcement leraning
+Minor Project: Camera tuning AI using Deep Reinforcement learning
