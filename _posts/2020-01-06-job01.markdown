@@ -1,0 +1,8 @@
+---
+layout: null
+title: June 2020
+subtitle:
+image: "img/timeline/AI_DL.jpeg"
+---
+Course: Deep Learning A-Z: Hands on Artificial Neural Networks. <a href = "https://www.udemy.com/course/deeplearning/"  target = "_blank">[Link]</a>
+
