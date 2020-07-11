@@ -4,5 +4,5 @@ title: August 2019
 subtitle:
 image: "img/timeline/ProjectFinal.jpeg"
 ---
-Project: Underwater simulations of Autonomous Underwater Vehicle AUVs . <a href = "https://github.com/syedjawadakhtar/AUV-FinalYear-Unity" target = "_blank">[Link]</a>
+Major Project: Deep Reinforcement Learning on simulations of AUVs. <a href = "https://github.com/husainhz7/AUV-FinalYear-Unity" target = "_blank">[Link]</a>
 
