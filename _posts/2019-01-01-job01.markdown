@@ -4,5 +4,5 @@ title: January 2019
 subtitle:
 image: "img/timeline/BEACON.jpeg"
 ---
-Project: Acoustic Localization of beacons in AUVs. <a href = "https://auv-doc.readthedocs.io/en/latest/computer/Acoustics/" target = "_blank">[Link]</a>
+Project: Acoustic Localization of beacons in AUVs. <a href = "https://auvdocs.readthedocs.io/en/latest/computer/Acoustics/" target = "_blank">[Link]</a>
 
