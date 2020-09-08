@@ -1,0 +1,7 @@
+---
+layout: null
+title: 18 July 2020
+subtitle:
+image: "img/timeline/webinar_jmi.png"
+---
+Speaker: Diving Deep webinar conducted by JMI <a href = "https://www.youtube.com/watch?v=_7KV1GaTrWw&list=PLo0l_hT9O8u1gJ7N66aeTy7V2q3tbyzXo">[YouTube Link]</a>
