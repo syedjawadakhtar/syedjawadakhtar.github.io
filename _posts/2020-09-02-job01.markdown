@@ -1,0 +1,7 @@
+---
+layout: null
+title: Spetember 2020
+subtitle:
+image: "img/timeline/graduation.jpeg"
+---
+Graduated from AMU with Bachelors in Computer Engineering
