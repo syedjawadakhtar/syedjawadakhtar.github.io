@@ -1,0 +1,7 @@
+---
+layout: null
+title: November 2020
+subtitle:
+image: "img/timeline/Pub2019.jpeg"
+---
+Publication: Effective thermal conductivity of unsaturated soils based on deep learning algorithm. <a href = "https://doi.org/10.1051/e3sconf/202020504006"  target = "blank">[Link]</a>
