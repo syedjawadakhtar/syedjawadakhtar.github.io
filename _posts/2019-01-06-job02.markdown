@@ -4,5 +4,4 @@ title: June 2019 - August 2019
 subtitle:
 image: "img/timeline/KIEL.jpeg"
 ---
-Research intern at the <a href = "https://www.uni-kiel.de/en/" target = "_blank">University of Kiel</a>, Germany 
-
+Research intern at the <a href = "https://www.uni-kiel.de/en/" target = "_blank">University of Kiel</a>, Germany. Topic: Applications of ANN in geomechanical engineering.
