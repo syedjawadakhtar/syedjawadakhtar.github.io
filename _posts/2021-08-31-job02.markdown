@@ -2,6 +2,6 @@
 layout: null
 title: August 2021
 subtitle:
-image: "/img/timeline/uniOulu.png"
+image: "/img/timeline/UniOulu.png"
 ---
 Started studying Masters of Science in Computer Science and Engineering at <a href = "https://www.oulu.fi/en" target = "_blank">University of Oulu</a>.
