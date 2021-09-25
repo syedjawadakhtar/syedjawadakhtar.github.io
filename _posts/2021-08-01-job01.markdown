@@ -2,6 +2,6 @@
 layout: null
 title: August 2021
 subtitle:
-image: "/img/timeline/RSM.png"
+image: "img/timeline/RSM.png"
 ---
 Intern at IT Advisory. Auditing companies using Saudi ARAMCO cybersecurity controls. <a href = "https://www.linkedin.com/posts/syed-jawad-akhtar_on-31st-august-i-completed-my-1-month-internship-activity-6838833652286205952-i6L7" target = "_blank">[LinkedIn Post]</a>
