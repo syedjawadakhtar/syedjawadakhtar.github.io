@@ -1,0 +1,7 @@
+---
+layout: null
+title: August 2021
+subtitle:
+image: "/img/timeline/RSM.jpg"
+---
+Intern at IT Advisory. Auditing companies using Saudi ARAMCO cybersecurity controls.
